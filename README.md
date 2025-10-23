@@ -31,6 +31,7 @@
 
 ## ✨ 핵심 기능
 
+
 ### 📍 위치 기반 거래
 
 - 회원가입 후 **위치 등록** 필수
@@ -75,6 +76,49 @@
 - 낙찰자 ↔ 출품자 **1:1 채팅**
 - 거래 시간/장소 조율
 - 푸시 알림으로 입찰·제안·채팅 등 이벤트 전달
+
+<br/>
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c5c7d69a-70b6-4bae-987c-7d202d718b66" width="200px" /><br />
+      <sub><b>홈 화면</b><br />상품 탐색 및 위치 기반 조회</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1f233575-64b9-4941-a3f0-bb2cacdfcfbb" width="200px" /><br />
+      <sub><b>입찰 현황</b><br />내 입찰 순위 및 진행 상태 확인</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3e41635a-288d-4942-bf80-ede0e49ec573" width="200px" /><br />
+      <sub><b>제안하기</b><br />입찰 제안 및 포인트 차감</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/07e35c8b-2d6a-4eaf-9e3f-4e3da9eeacd1" width="200px" /><br />
+      <sub><b>시크릿 경매</b><br />상위 입찰 금액 비공개 방식</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6ff3d057-1d86-4fdd-b182-97cf253c98e5" width="200px" /><br />
+      <sub><b>채팅</b><br />실시간 채팅 및 읽음/안읽음 표시</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/375b1f39-8fb9-4f9c-93fc-20a438565a45" width="200px" /><br />
+      <sub><b>알림</b><br />낙찰, 채팅, 시스템 알림 수신</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+서비스 시연 영상 더 보기 > 
+https://drive.google.com/file/d/1BvV3e-zq1YS-6C7qMkfqilnr57ZKzGJX/view?usp=sharing
+
+
 
 ---
 
